@@ -1,5 +1,17 @@
 # 📊 Customer Churn Analysis & Prediction Using Python
 
+<div align="center">
+
+<a href="https://github.com/BhagyashreePashte/Customer-Churn-Data-Science">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=ChurnLens+AI;Customer+Retention+Intelligence;Customer+Churn+Prediction;Turning+Data+into+Insights" alt="Typing SVG" />
+</a>
+
+### 📊 Customer Retention Intelligence & Churn Prediction
+
+**Turning Customer Data into Actionable Retention Insights**
+
+</div>
+
 > **An end-to-end Data Science project for analyzing customer churn patterns, discovering actionable insights, performing statistical analysis, and developing predictive machine-learning models.**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
