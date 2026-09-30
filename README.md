@@ -6,11 +6,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=ChurnLens+AI;Customer+Retention+Intelligence;Customer+Churn+Prediction;Turning+Data+into+Insights" alt="Typing SVG" />
 </a>
 
-### 📊 Customer Retention Intelligence & Churn Prediction
-
-**Turning Customer Data into Actionable Retention Insights**
 
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=🧠+ChurnLens+AI;📊+Customer+Retention+Intelligence;🤖+AI-Powered+Churn+Prediction;💡+Data+Driven+Retention+Strategy" alt="ChurnLens AI" />
+
+<br>
+
+### **Customer Retention Intelligence & Churn Prediction**
+
+*From Customer Data → Behavioral Insights → Churn Risk → Retention Strategy*
+
+</div>
+
+
 
 > **An end-to-end Data Science project for analyzing customer churn patterns, discovering actionable insights, performing statistical analysis, and developing predictive machine-learning models.**
 
