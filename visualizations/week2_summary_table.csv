@@ -1,0 +1,8 @@
+Dimension,Highest_Churn_Group,Highest_Churn_Rate,Lowest_Churn_Group,Lowest_Churn_Rate
+Contract,Month-to-month,42.71,Two year,2.85
+InternetService,Fiber optic,41.89,No,7.43
+PaymentMethod,Electronic check,45.29,Credit card (automatic),15.25
+TenureGroup,0–12 Months,47.68,61–72 Months,6.61
+MonthlyChargeGroup,High,37.04,Low,11.68
+TechSupport,No,41.65,No internet service,7.43
+OnlineSecurity,No,41.78,No internet service,7.43
